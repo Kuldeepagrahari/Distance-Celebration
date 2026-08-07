@@ -1,7 +1,7 @@
 # 🌙 Distance-Celebration — Zero Distance Celebrations
 
 > **Distance is a technicality.**  
-> Samrio is a high-fidelity, private virtual space designed for couples in long-distance relationships to celebrate milestones, cultural festivals, and daily rituals together in real time.
+> Distance-Celebration is a high-fidelity, private virtual space designed for couples in long-distance relationships to celebrate milestones, cultural festivals, and daily rituals together in real time.
 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
