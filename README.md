@@ -28,7 +28,7 @@
 - **Premium UI / UX**  
   Dark-mode-first design with:
   - Pure black base `#000000`
-  - Samrio Rose `#FF5885` for action glows
+  - Rose `#FF5885` for action glows
   - Glassmorphism accents and subtle motion cues
 
 ---
@@ -62,7 +62,7 @@ client/
 
 🧠 Design Philosophy
 
-Samrio is built on three core principles:
+This Application is built on three core principles:
 
 Presence over productivity – shared moments matter more than features
 
